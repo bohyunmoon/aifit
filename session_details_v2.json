@@ -1,0 +1,424 @@
+{
+  "workouts": [
+    {
+      "id": "WO001",
+      "title": "Calisthenics 20-Min Cardiovascular Health Workout",
+      "segments": [
+        {
+          "timeRange": "0:00 - 5:00",
+          "focus": "Warmup and Mobility",
+          "exercises": [
+            { "name": "Jumping jacks", "duration": "2 min" },
+            { "name": "High knees", "duration": "1 min" },
+            { "name": "Body weight squats", "duration": "2 min" }
+          ]
+        },
+        {
+          "timeRange": "5:00 - 10:00",
+          "focus": "Lower Body Focus",
+          "exercises": [
+            { "name": "Bodyweight lunges", "duration": "2 min" },
+            { "name": "Jump squats", "duration": "2 min" },
+            { "name": "Calf raises", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "10:00 - 15:00",
+          "focus": "Upper Body Focus",
+          "exercises": [
+            { "name": "Diamond push-ups", "duration": "2 min" },
+            { "name": "Pike push-ups", "duration": "2 min" },
+            { "name": "Plank holds", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "15:00 - 20:00",
+          "focus": "Cool Down and Stretching",
+          "exercises": [
+            { "name": "Quad stretches", "duration": "3 min" },
+            { "name": "Hamstring stretches", "duration": "1 min" },
+            { "name": "Hip flexor stretches", "duration": "1 min" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "WO002",
+      "title": "HIIT 20-Min Weight Loss Workout",
+      "segments": [
+        {
+          "timeRange": "0:00 - 5:00",
+          "focus": "Dynamic Warmup",
+          "exercises": [
+            { "name": "Jogging in place", "duration": "2 min" },
+            { "name": "Arm circles", "duration": "1 min" },
+            { "name": "Hip circles", "duration": "2 min" }
+          ]
+        },
+        {
+          "timeRange": "5:00 - 10:00",
+          "focus": "HIIT Circuit 1",
+          "exercises": [
+            { "name": "Burpees", "duration": "2 min" },
+            { "name": "Mountain climbers", "duration": "2 min" },
+            { "name": "Rest", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "10:00 - 15:00",
+          "focus": "HIIT Circuit 2",
+          "exercises": [
+            { "name": "Plank to downward dog", "duration": "2 min" },
+            { "name": "Jumping lunges", "duration": "2 min" },
+            { "name": "Rest", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "15:00 - 20:00",
+          "focus": "Cool Down",
+          "exercises": [
+            { "name": "Walking in place", "duration": "2 min" },
+            { "name": "Child's pose", "duration": "2 min" },
+            { "name": "Cat-cow stretch", "duration": "1 min" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "WO003",
+      "title": "Yoga 33-Min Muscle Tone Workout",
+      "segments": [
+        {
+          "timeRange": "0:00 - 8:00",
+          "focus": "Mindful Warmup",
+          "exercises": [
+            { "name": "Sun Salutation A", "duration": "4 min" },
+            { "name": "Cat-Cow Flows", "duration": "2 min" },
+            { "name": "Downward Dog Walks", "duration": "2 min" }
+          ]
+        },
+        {
+          "timeRange": "8:00 - 16:00",
+          "focus": "Standing Strength Series",
+          "exercises": [
+            { "name": "Warrior I Holds", "duration": "3 min" },
+            { "name": "Warrior II Pulses", "duration": "3 min" },
+            { "name": "Chair Pose Variations", "duration": "2 min" }
+          ]
+        },
+        {
+          "timeRange": "16:00 - 25:00",
+          "focus": "Core Power Flow",
+          "exercises": [
+            { "name": "Plank Variations", "duration": "3 min" },
+            { "name": "Boat Pose Series", "duration": "3 min" },
+            { "name": "Bridge Pose Series", "duration": "3 min" }
+          ]
+        },
+        {
+          "timeRange": "25:00 - 33:00",
+          "focus": "Cool Down and Meditation",
+          "exercises": [
+            { "name": "Seated Forward Folds", "duration": "3 min" },
+            { "name": "Supine Twists", "duration": "3 min" },
+            { "name": "Savasana", "duration": "2 min" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "WO004",
+      "title": "Cardio 36-Min Muscle Building Workout",
+      "segments": [
+        {
+          "timeRange": "0:00 - 9:00",
+          "focus": "Dynamic Warmup",
+          "exercises": [
+            { "name": "Light Jogging", "duration": "4 min" },
+            { "name": "Dynamic Arm Swings", "duration": "3 min" },
+            { "name": "Walking Lunges", "duration": "2 min" }
+          ]
+        },
+        {
+          "timeRange": "9:00 - 18:00",
+          "focus": "Upper Body Strength",
+          "exercises": [
+            { "name": "Dumbbell Press", "duration": "3 min" },
+            { "name": "Bent Over Rows", "duration": "3 min" },
+            { "name": "Shoulder Press", "duration": "3 min" }
+          ]
+        },
+        {
+          "timeRange": "18:00 - 27:00",
+          "focus": "Lower Body Power",
+          "exercises": [
+            { "name": "Goblet Squats", "duration": "3 min" },
+            { "name": "Romanian Deadlifts", "duration": "3 min" },
+            { "name": "Walking Lunges", "duration": "3 min" }
+          ]
+        },
+        {
+          "timeRange": "27:00 - 36:00",
+          "focus": "Cardio Finisher and Cool Down",
+          "exercises": [
+            { "name": "Dumbbell Complex", "duration": "4 min" },
+            { "name": "Light Stretching", "duration": "3 min" },
+            { "name": "Mobility Work", "duration": "2 min" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "WO005",
+      "title": "Yoga 38-Min Core Strength Workout",
+      "segments": [
+        {
+          "timeRange": "0:00 - 10:00",
+          "focus": "Warmup Flow",
+          "exercises": [
+            { "name": "Sun Salutation B", "duration": "4 min" },
+            { "name": "Dynamic Core Warmup", "duration": "3 min" },
+            { "name": "Balance Preparation", "duration": "3 min" }
+          ]
+        },
+        {
+          "timeRange": "10:00 - 19:00",
+          "focus": "Standing Core Integration",
+          "exercises": [
+            { "name": "Standing Balance Series", "duration": "3 min" },
+            { "name": "Side Body Strengthening", "duration": "3 min" },
+            { "name": "Standing Twists", "duration": "3 min" }
+          ]
+        },
+        {
+          "timeRange": "19:00 - 29:00",
+          "focus": "Power Core Series",
+          "exercises": [
+            { "name": "Advanced Plank Flow", "duration": "4 min" },
+            { "name": "Hollow Body Work", "duration": "3 min" },
+            { "name": "L-Sit Preparation", "duration": "3 min" }
+          ]
+        },
+        {
+          "timeRange": "29:00 - 38:00",
+          "focus": "Cool Down and Integration",
+          "exercises": [
+            { "name": "Gentle Twists", "duration": "3 min" },
+            { "name": "Hip Opening", "duration": "3 min" },
+            { "name": "Final Relaxation", "duration": "3 min" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "WO006",
+      "title": "HIIT 42-Min Weight Loss Workout",
+      "segments": [
+        {
+          "timeRange": "0:00 - 10:00",
+          "focus": "Activation Warmup",
+          "exercises": [
+            { "name": "Joint Mobility", "duration": "4 min" },
+            { "name": "Dynamic Stretching", "duration": "3 min" },
+            { "name": "Light Cardio", "duration": "3 min" }
+          ]
+        },
+        {
+          "timeRange": "10:00 - 22:00",
+          "focus": "HIIT Circuit 1",
+          "exercises": [
+            { "name": "Dumbbell Thrusters", "duration": "4 min" },
+            { "name": "Renegade Rows", "duration": "4 min" },
+            { "name": "Box Jump Variations", "duration": "4 min" }
+          ]
+        },
+        {
+          "timeRange": "22:00 - 34:00",
+          "focus": "HIIT Circuit 2",
+          "exercises": [
+            { "name": "Clean and Press", "duration": "4 min" },
+            { "name": "Devil's Press", "duration": "4 min" },
+            { "name": "Burpee Over Dumbbell", "duration": "4 min" }
+          ]
+        },
+        {
+          "timeRange": "34:00 - 42:00",
+          "focus": "Finisher and Cool Down",
+          "exercises": [
+            { "name": "AMRAP Finale", "duration": "3 min" },
+            { "name": "Mobility Work", "duration": "3 min" },
+            { "name": "Static Stretching", "duration": "2 min" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "WO007",
+      "title": "HIIT 17-Min Core Strength Workout",
+      "segments": [
+        {
+          "timeRange": "0:00 - 4:00",
+          "focus": "Quick Warmup",
+          "exercises": [
+            { "name": "Cat-Cow", "duration": "1.5 min" },
+            { "name": "Bird Dog", "duration": "1.5 min" },
+            { "name": "Dead Bug", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "4:00 - 8:00",
+          "focus": "Core Power",
+          "exercises": [
+            { "name": "Russian Twists", "duration": "1.5 min" },
+            { "name": "V-Ups", "duration": "1.5 min" },
+            { "name": "Plank Variations", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "8:00 - 13:00",
+          "focus": "Weighted Core",
+          "exercises": [
+            { "name": "Weighted Situps", "duration": "2 min" },
+            { "name": "Side Bends", "duration": "2 min" },
+            { "name": "Woodchoppers", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "13:00 - 17:00",
+          "focus": "Finisher and Cool Down",
+          "exercises": [
+            { "name": "Plank Challenge", "duration": "2 min" },
+            { "name": "Core Stretching", "duration": "1 min" },
+            { "name": "Spine Mobility", "duration": "1 min" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "WO008",
+      "title": "Cardio 36-Min Flexibility Workout",
+      "segments": [
+        {
+          "timeRange": "0:00 - 9:00",
+          "focus": "Dynamic Flexibility Warmup",
+          "exercises": [
+            { "name": "Walking Stretches", "duration": "3 min" },
+            { "name": "Arm Circles", "duration": "3 min" },
+            { "name": "Hip Circles", "duration": "3 min" }
+          ]
+        },
+        {
+          "timeRange": "9:00 - 18:00",
+          "focus": "Lower Body Flexibility",
+          "exercises": [
+            { "name": "Dynamic Lunges", "duration": "3 min" },
+            { "name": "Hamstring Flows", "duration": "3 min" },
+            { "name": "Hip Opener Series", "duration": "3 min" }
+          ]
+        },
+        {
+          "timeRange": "18:00 - 27:00",
+          "focus": "Upper Body Mobility",
+          "exercises": [
+            { "name": "Shoulder Mobility", "duration": "3 min" },
+            { "name": "Thoracic Extension", "duration": "3 min" },
+            { "name": "Wrist Mobility", "duration": "3 min" }
+          ]
+        },
+        {
+          "timeRange": "27:00 - 36:00",
+          "focus": "Integration and Cool Down",
+          "exercises": [
+            { "name": "Flow Sequences", "duration": "3 min" },
+            { "name": "Static Stretching", "duration": "3 min" },
+            { "name": "Balance Work", "duration": "3 min" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "WO009",
+      "title": "Cardio 16-Min Cardiovascular Health Workout",
+      "segments": [
+        {
+          "timeRange": "0:00 - 4:00",
+          "focus": "Warmup",
+          "exercises": [
+            { "name": "Marching in Place", "duration": "1.5 min" },
+            { "name": "Knee Lifts", "duration": "1.5 min" },
+            { "name": "Side Steps", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "4:00 - 8:00",
+          "focus": "Cardio Circuit 1",
+          "exercises": [
+            { "name": "Step Touches", "duration": "1.5 min" },
+            { "name": "Punch Combos", "duration": "1.5 min" },
+            { "name": "Star Jacks", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "8:00 - 12:00",
+          "focus": "Cardio Circuit 2",
+          "exercises": [
+            { "name": "Low Impact Jacks", "duration": "1.5 min" },
+            { "name": "March and Punch", "duration": "1.5 min" },
+            { "name": "Side to Side", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "12:00 - 16:00",
+          "focus": "Cool Down",
+          "exercises": [
+            { "name": "Walking in Place", "duration": "1.5 min" },
+            { "name": "Shoulder Rolls", "duration": "1.5 min" },
+            { "name": "Deep Breathing", "duration": "1 min" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "WO010",
+      "title": "Cardio 29-Min Weight Loss Workout",
+      "segments": [
+        {
+          "timeRange": "0:00 - 7:00",
+          "focus": "Warmup with Band",
+          "exercises": [
+            { "name": "Band Pull Aparts", "duration": "2.5 min" },
+            { "name": "Band Walks", "duration": "2.5 min" },
+            { "name": "Shoulder Mobility", "duration": "2 min" }
+          ]
+        },
+        {
+          "timeRange": "7:00 - 15:00",
+          "focus": "Lower Body Band Work",
+          "exercises": [
+            { "name": "Banded Squats", "duration": "3 min" },
+            { "name": "Band Hip Bridges", "duration": "3 min" },
+            { "name": "Lateral Band Walks", "duration": "2 min" }
+          ]
+        },
+        {
+          "timeRange": "15:00 - 23:00",
+          "focus": "Upper Body Band Work",
+          "exercises": [
+            { "name": "Band Rows", "duration": "3 min" },
+            { "name": "Band Push Press", "duration": "3 min" },
+            { "name": "Tricep Extensions", "duration": "2 min" }
+          ]
+        },
+        {
+          "timeRange": "23:00 - 29:00",
+          "focus": "Cool Down",
+          "exercises": [
+            { "name": "Light Band Stretches", "duration": "2 min" },
+            { "name": "Assisted Stretching", "duration": "2 min" },
+            { "name": "Mobility Work", "duration": "2 min" }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,525 @@
+{
+  "workouts": [
+    {
+      "id": "WO001",
+      "title": "Calisthenics 20-Min Cardiovascular Health Workout",
+      "instructor": "David Kim",
+      "instructorCertification": "ISSA-CPT, Calisthenics Level 3",
+      "duration": "20 minutes",
+      "difficulty": "Intermediate",
+      "equipmentRequired": "None",
+      "segments": [
+        {
+          "timeRange": "0:00 - 5:00",
+          "focus": "Warmup and Mobility",
+          "exercises": [
+            { "name": "Dynamic stretching", "duration": "1 min" },
+            { "name": "Jumping jacks", "duration": "1 min" },
+            { "name": "Arm circles", "duration": "1 min" },
+            { "name": "High knees", "duration": "1 min" },
+            { "name": "Body weight squats", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "5:00 - 10:00",
+          "focus": "Lower Body Focus",
+          "exercises": [
+            { "name": "Bodyweight lunges", "duration": "1 min" },
+            { "name": "Jump squats", "duration": "1 min" },
+            { "name": "Calf raises", "duration": "1 min" },
+            { "name": "Mountain climbers", "duration": "1 min" },
+            { "name": "Squat holds", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "10:00 - 15:00",
+          "focus": "Upper Body Focus",
+          "exercises": [
+            { "name": "Push-ups", "duration": "1 min" },
+            { "name": "Diamond push-ups", "duration": "1 min" },
+            { "name": "Pike push-ups", "duration": "1 min" },
+            { "name": "Plank holds", "duration": "1 min" },
+            { "name": "Tricep dips", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "15:00 - 20:00",
+          "focus": "Cool Down and Stretching",
+          "exercises": [
+            { "name": "Shoulder stretches", "duration": "1 min" },
+            { "name": "Quad stretches", "duration": "1 min" },
+            { "name": "Hamstring stretches", "duration": "1 min" },
+            { "name": "Hip flexor stretches", "duration": "1 min" },
+            { "name": "Deep breathing", "duration": "1 min" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "WO002",
+      "title": "HIIT 20-Min Weight Loss Workout",
+      "instructor": "Sarah Chen",
+      "instructorCertification": "NASM-CPT, CrossFit L2",
+      "duration": "20 minutes",
+      "difficulty": "Advanced",
+      "equipmentRequired": "None",
+      "segments": [
+        {
+          "timeRange": "0:00 - 5:00",
+          "focus": "Dynamic Warmup",
+          "exercises": [
+            { "name": "Jogging in place", "duration": "1 min" },
+            { "name": "Arm swings", "duration": "1 min" },
+            { "name": "Hip circles", "duration": "1 min" },
+            { "name": "Jumping rope", "duration": "1 min" },
+            { "name": "Leg swings", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "5:00 - 10:00",
+          "focus": "HIIT Circuit 1",
+          "exercises": [
+            { "name": "Burpees", "duration": "1 min" },
+            { "name": "Mountain climbers", "duration": "1 min" },
+            { "name": "Jump squats", "duration": "1 min" },
+            { "name": "High knees", "duration": "1 min" },
+            { "name": "Rest", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "10:00 - 15:00",
+          "focus": "HIIT Circuit 2",
+          "exercises": [
+            { "name": "Plank to downward dog", "duration": "1 min" },
+            { "name": "Jumping lunges", "duration": "1 min" },
+            { "name": "Push-up to side plank", "duration": "1 min" },
+            { "name": "Squat jumps", "duration": "1 min" },
+            { "name": "Rest", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "15:00 - 20:00",
+          "focus": "Cool Down",
+          "exercises": [
+            { "name": "Walking in place", "duration": "1 min" },
+            { "name": "Light stretching", "duration": "1 min" },
+            { "name": "Child's pose", "duration": "1 min" },
+            { "name": "Cat-cow stretch", "duration": "1 min" },
+            { "name": "Final relaxation", "duration": "1 min" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "WO003",
+      "title": "Yoga 33-Min Muscle Tone Workout",
+      "instructor": "Marcus Rodriguez",
+      "instructorCertification": "RYT-500, PMA-CPT",
+      "duration": "33 minutes",
+      "difficulty": "Intermediate",
+      "equipmentRequired": "Yoga Mat",
+      "segments": [
+        {
+          "timeRange": "0:00 - 8:00",
+          "focus": "Mindful Warmup",
+          "exercises": [
+            { "name": "Sun Salutation A", "duration": "2 min" },
+            { "name": "Cat-Cow Flows", "duration": "1.5 min" },
+            { "name": "Downward Dog Walks", "duration": "1.5 min" },
+            { "name": "Standing Side Bends", "duration": "1.5 min" },
+            { "name": "Mountain to Forward Fold", "duration": "1.5 min" }
+          ]
+        },
+        {
+          "timeRange": "8:00 - 16:00",
+          "focus": "Standing Strength Series",
+          "exercises": [
+            { "name": "Warrior I Holds", "duration": "2 min" },
+            { "name": "Warrior II Pulses", "duration": "2 min" },
+            { "name": "Chair Pose Variations", "duration": "1.5 min" },
+            { "name": "Balance Poses", "duration": "1.5 min" },
+            { "name": "Standing Split Prep", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "16:00 - 25:00",
+          "focus": "Core Power Flow",
+          "exercises": [
+            { "name": "Plank Variations", "duration": "2 min" },
+            { "name": "Boat Pose Series", "duration": "2 min" },
+            { "name": "Side Plank Flows", "duration": "2 min" },
+            { "name": "Bridge Pose Series", "duration": "1.5 min" },
+            { "name": "Core Compression Work", "duration": "1.5 min" }
+          ]
+        },
+        {
+          "timeRange": "25:00 - 33:00",
+          "focus": "Cool Down and Meditation",
+          "exercises": [
+            { "name": "Seated Forward Folds", "duration": "2 min" },
+            { "name": "Supine Twists", "duration": "2 min" },
+            { "name": "Happy Baby Pose", "duration": "1.5 min" },
+            { "name": "Savasana", "duration": "1.5 min" },
+            { "name": "Guided Meditation", "duration": "1 min" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "WO004",
+      "title": "Cardio 36-Min Muscle Building Workout",
+      "instructor": "Emma Thompson",
+      "instructorCertification": "ACE-CPT, Zumba Licensed",
+      "duration": "36 minutes",
+      "difficulty": "Intermediate",
+      "equipmentRequired": "Dumbbells",
+      "segments": [
+        {
+          "timeRange": "0:00 - 9:00",
+          "focus": "Dynamic Warmup",
+          "exercises": [
+            { "name": "Light Jogging", "duration": "2 min" },
+            { "name": "Dynamic Arm Swings", "duration": "2 min" },
+            { "name": "Walking Lunges", "duration": "2 min" },
+            { "name": "Shoulder Mobility Work", "duration": "2 min" },
+            { "name": "Light Dumbbell Complex", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "9:00 - 18:00",
+          "focus": "Upper Body Strength",
+          "exercises": [
+            { "name": "Dumbbell Press", "duration": "2 min" },
+            { "name": "Bent Over Rows", "duration": "2 min" },
+            { "name": "Shoulder Press", "duration": "2 min" },
+            { "name": "Tricep Extensions", "duration": "2 min" },
+            { "name": "Active Recovery", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "18:00 - 27:00",
+          "focus": "Lower Body Power",
+          "exercises": [
+            { "name": "Goblet Squats", "duration": "2 min" },
+            { "name": "Romanian Deadlifts", "duration": "2 min" },
+            { "name": "Walking Lunges", "duration": "2 min" },
+            { "name": "Calf Raises", "duration": "2 min" },
+            { "name": "Active Recovery", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "27:00 - 36:00",
+          "focus": "Cardio Finisher and Cool Down",
+          "exercises": [
+            { "name": "Dumbbell Complex", "duration": "2 min" },
+            { "name": "AMRAP Circuit", "duration": "2 min" },
+            { "name": "Light Stretching", "duration": "2 min" },
+            { "name": "Mobility Work", "duration": "2 min" },
+            { "name": "Final Stretch", "duration": "1 min" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "WO005",
+      "title": "Yoga 38-Min Core Strength Workout",
+      "instructor": "Marcus Rodriguez",
+      "instructorCertification": "RYT-500, PMA-CPT",
+      "duration": "38 minutes",
+      "difficulty": "Advanced",
+      "equipmentRequired": "Yoga Mat",
+      "segments": [
+        {
+          "timeRange": "0:00 - 10:00",
+          "focus": "Warmup Flow",
+          "exercises": [
+            { "name": "Sun Salutation B", "duration": "2.5 min" },
+            { "name": "Dynamic Core Warmup", "duration": "2 min" },
+            { "name": "Balance Preparation", "duration": "2 min" },
+            { "name": "Flowing Vinyasa", "duration": "2 min" },
+            { "name": "Core Activation", "duration": "1.5 min" }
+          ]
+        },
+        {
+          "timeRange": "10:00 - 19:00",
+          "focus": "Standing Core Integration",
+          "exercises": [
+            { "name": "Standing Balance Series", "duration": "2 min" },
+            { "name": "Side Body Strengthening", "duration": "2 min" },
+            { "name": "Standing Twists", "duration": "2 min" },
+            { "name": "Balance Flow", "duration": "2 min" },
+            { "name": "Core Integration", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "19:00 - 29:00",
+          "focus": "Power Core Series",
+          "exercises": [
+            { "name": "Advanced Plank Flow", "duration": "2.5 min" },
+            { "name": "Hollow Body Work", "duration": "2.5 min" },
+            { "name": "L-Sit Preparation", "duration": "2 min" },
+            { "name": "Rolling Patterns", "duration": "2 min" },
+            { "name": "Compression Work", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "29:00 - 38:00",
+          "focus": "Cool Down and Integration",
+          "exercises": [
+            { "name": "Gentle Twists", "duration": "2 min" },
+            { "name": "Hip Opening", "duration": "2 min" },
+            { "name": "Spine Waves", "duration": "2 min" },
+            { "name": "Final Relaxation", "duration": "2 min" },
+            { "name": "Breathing Practice", "duration": "1 min" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "WO006",
+      "title": "HIIT 42-Min Weight Loss Workout",
+      "instructor": "Sarah Chen",
+      "instructorCertification": "NASM-CPT, CrossFit L2",
+      "duration": "42 minutes",
+      "difficulty": "Intermediate",
+      "equipmentRequired": "Dumbbells",
+      "segments": [
+        {
+          "timeRange": "0:00 - 10:00",
+          "focus": "Activation Warmup",
+          "exercises": [
+            { "name": "Joint Mobility", "duration": "2 min" },
+            { "name": "Dynamic Stretching", "duration": "2 min" },
+            { "name": "Light Cardio", "duration": "2 min" },
+            { "name": "Movement Prep", "duration": "2 min" },
+            { "name": "Activation Exercises", "duration": "2 min" }
+          ]
+        },
+        {
+          "timeRange": "10:00 - 22:00",
+          "focus": "HIIT Circuit 1",
+          "exercises": [
+            { "name": "Dumbbell Thrusters", "duration": "3 min" },
+            { "name": "Renegade Rows", "duration": "3 min" },
+            { "name": "Box Jump Variations", "duration": "2 min" },
+            { "name": "Russian Twists", "duration": "2 min" },
+            { "name": "Active Recovery", "duration": "2 min" }
+          ]
+        },
+        {
+          "timeRange": "22:00 - 34:00",
+          "focus": "HIIT Circuit 2",
+          "exercises": [
+            { "name": "Clean and Press", "duration": "3 min" },
+            { "name": "Devil's Press", "duration": "3 min" },
+            { "name": "Dumbbell Snatch", "duration": "2 min" },
+            { "name": "Burpee Over Dumbbell", "duration": "2 min" },
+            { "name": "Active Recovery", "duration": "2 min" }
+          ]
+        },
+        {
+          "timeRange": "34:00 - 42:00",
+          "focus": "Finisher and Cool Down",
+          "exercises": [
+            { "name": "AMRAP Finale", "duration": "2 min" },
+            { "name": "Mobility Work", "duration": "2 min" },
+            { "name": "Static Stretching", "duration": "2 min" },
+            { "name": "Breathing Recovery", "duration": "1 min" },
+            { "name": "Final Stretch", "duration": "1 min" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "WO007",
+      "title": "HIIT 17-Min Core Strength Workout",
+      "instructor": "Sarah Chen",
+      "instructorCertification": "NASM-CPT, CrossFit L2",
+      "duration": "17 minutes",
+      "difficulty": "Intermediate",
+      "equipmentRequired": "Dumbbells",
+      "segments": [
+        {
+          "timeRange": "0:00 - 4:00",
+          "focus": "Quick Warmup",
+          "exercises": [
+            { "name": "Cat-Cow", "duration": "45 sec" },
+            { "name": "Bird Dog", "duration": "45 sec" },
+            { "name": "Dead Bug", "duration": "45 sec" },
+            { "name": "Plank Holds", "duration": "45 sec" },
+            { "name": "Core Activation", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "4:00 - 8:00",
+          "focus": "Core Power",
+          "exercises": [
+            { "name": "Russian Twists", "duration": "45 sec" },
+            { "name": "V-Ups", "duration": "45 sec" },
+            { "name": "Plank Variations", "duration": "45 sec" },
+            { "name": "Mountain Climbers", "duration": "45 sec" },
+            { "name": "Quick Recovery", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "8:00 - 13:00",
+          "focus": "Weighted Core",
+          "exercises": [
+            { "name": "Weighted Situps", "duration": "1 min" },
+            { "name": "Side Bends", "duration": "1 min" },
+            { "name": "Woodchoppers", "duration": "1 min" },
+            { "name": "Farmers Carries", "duration": "1 min" },
+            { "name": "Active Recovery", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "13:00 - 17:00",
+          "focus": "Finisher and Cool Down",
+          "exercises": [
+            { "name": "Plank Challenge", "duration": "1 min" },
+            { "name": "Core Stretching", "duration": "1 min" },
+            { "name": "Spine Mobility", "duration": "1 min" },
+            { "name": "Breathing Work", "duration": "30 sec" },
+            { "name": "Final Stretch", "duration": "30 sec" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "WO008",
+      "segments": [
+        // Previous segments remain the same...
+        {
+          "timeRange": "18:00 - 27:00",
+          "focus": "Upper Body Mobility",
+          "exercises": [
+            { "name": "Shoulder Mobility", "duration": "2 min" },
+            { "name": "Thoracic Extension", "duration": "2 min" },
+            { "name": "Wrist Mobility", "duration": "2 min" },
+            { "name": "Spine Waves", "duration": "2 min" },
+            { "name": "Active Rest", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "27:00 - 36:00",
+          "focus": "Integration and Cool Down",
+          "exercises": [
+            { "name": "Flow Sequences", "duration": "2 min" },
+            { "name": "Static Stretching", "duration": "2 min" },
+            { "name": "Balance Work", "duration": "2 min" },
+            { "name": "Relaxation", "duration": "2 min" },
+            { "name": "Final Stretches", "duration": "1 min" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "WO009",
+      "title": "Cardio 16-Min Cardiovascular Health Workout",
+      "instructor": "Emma Thompson",
+      "instructorCertification": "ACE-CPT, Zumba Licensed",
+      "duration": "16 minutes",
+      "difficulty": "Beginner",
+      "equipmentRequired": "None",
+      "segments": [
+        {
+          "timeRange": "0:00 - 4:00",
+          "focus": "Warmup",
+          "exercises": [
+            { "name": "Marching in Place", "duration": "45 sec" },
+            { "name": "Arm Circles", "duration": "45 sec" },
+            { "name": "Knee Lifts", "duration": "45 sec" },
+            { "name": "Side Steps", "duration": "45 sec" },
+            { "name": "Light Bouncing", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "4:00 - 8:00",
+          "focus": "Cardio Circuit 1",
+          "exercises": [
+            { "name": "Step Touches", "duration": "45 sec" },
+            { "name": "Punch Combos", "duration": "45 sec" },
+            { "name": "Knee Drives", "duration": "45 sec" },
+            { "name": "Star Jacks", "duration": "45 sec" },
+            { "name": "Active Recovery", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "8:00 - 12:00",
+          "focus": "Cardio Circuit 2",
+          "exercises": [
+            { "name": "Low Impact Jacks", "duration": "45 sec" },
+            { "name": "March and Punch", "duration": "45 sec" },
+            { "name": "Side to Side", "duration": "45 sec" },
+            { "name": "Heel Taps", "duration": "45 sec" },
+            { "name": "Active Recovery", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "12:00 - 16:00",
+          "focus": "Cool Down",
+          "exercises": [
+            { "name": "Walking in Place", "duration": "1 min" },
+            { "name": "Shoulder Rolls", "duration": "1 min" },
+            { "name": "Light Stretching", "duration": "1 min" },
+            { "name": "Deep Breathing", "duration": "45 sec" },
+            { "name": "Final Stretch", "duration": "15 sec" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "WO010",
+      "title": "Cardio 29-Min Weight Loss Workout",
+      "instructor": "Emma Thompson",
+      "instructorCertification": "ACE-CPT, Zumba Licensed",
+      "duration": "29 minutes",
+      "difficulty": "Beginner",
+      "equipmentRequired": "Resistance Bands",
+      "segments": [
+        {
+          "timeRange": "0:00 - 7:00",
+          "focus": "Warmup with Band",
+          "exercises": [
+            { "name": "Band Pull Aparts", "duration": "1.5 min" },
+            { "name": "Band Walks", "duration": "1.5 min" },
+            { "name": "Shoulder Mobility", "duration": "1.5 min" },
+            { "name": "Hip Activation", "duration": "1.5 min" },
+            { "name": "Dynamic Stretches", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "7:00 - 15:00",
+          "focus": "Lower Body Band Work",
+          "exercises": [
+            { "name": "Banded Squats", "duration": "2 min" },
+            { "name": "Band Hip Bridges", "duration": "2 min" },
+            { "name": "Lateral Band Walks", "duration": "1.5 min" },
+            { "name": "Banded Leg Raises", "duration": "1.5 min" },
+            { "name": "Recovery", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "15:00 - 23:00",
+          "focus": "Upper Body Band Work",
+          "exercises": [
+            { "name": "Band Rows", "duration": "2 min" },
+            { "name": "Band Push Press", "duration": "2 min" },
+            { "name": "Tricep Extensions", "duration": "1.5 min" },
+            { "name": "Band Bicep Curls", "duration": "1.5 min" },
+            { "name": "Recovery", "duration": "1 min" }
+          ]
+        },
+        {
+          "timeRange": "23:00 - 29:00",
+          "focus": "Cool Down",
+          "exercises": [
+            { "name": "Light Band Stretches", "duration": "1.5 min" },
+            { "name": "Assisted Stretching", "duration": "1.5 min" },
+            { "name": "Mobility Work", "duration": "1.5 min" },
+            { "name": "Final Stretches", "duration": "1 min" },
+            { "name": "Breathing Exercise", "duration": "30 sec" }
+          ]
+        }
+      ]
+    }
