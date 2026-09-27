@@ -1,0 +1,23 @@
+{
+  "name": "AIFit",
+  "handle": "@aifit",
+  "niche": "home fitness, short science-backed workouts, habit building",
+  "audience": "busy adults 25-45 who want to get fit at home in 20-30 minutes a day",
+  "voice": "direct, warm, evidence-based, zero fluff, a little playful. Second person. Short sentences.",
+  "cta_default": "Follow for a new 20-minute workout every week.",
+  "default_hashtags": ["#fitness", "#homeworkout", "#fittok", "#workoutmotivation", "#aifit"],
+  "banned_words": ["guaranteed", "miracle", "melt fat", "detox"],
+  "visual_style": "clean, bright, modern home gym and outdoor morning light; photoreal; diverse real-looking people; no text baked into the image; vertical 9:16 composition with subject centred and headroom for captions",
+  "negative_prompt": "text, watermark, logo, extra fingers, deformed hands, blurry, low quality",
+  "colors": { "primary": "#FF4D4D", "secondary": "#111111", "caption": "#FFFFFF", "highlight": "#FFD166" },
+  "font": "DejaVu Sans",
+  "caption_style": { "uppercase": true, "words_per_line": 3, "font_size": 78 },
+  "music_volume_db": -18,
+  "voice": {
+    "provider": "auto",
+    "magnific_voice": "",
+    "edge_voice": "en-US-AndrewMultilingualNeural",
+    "rate": "+8%"
+  },
+  "video": { "width": 1080, "height": 1920, "fps": 30, "target_seconds": 32, "min_scene_seconds": 2.0, "max_scene_seconds": 7.0 }
+}

@@ -1,0 +1,6 @@
+mcp>=1.10
+httpx2
+pillow>=10
+numpy
+edge-tts>=6.1
+anthropic>=1.0

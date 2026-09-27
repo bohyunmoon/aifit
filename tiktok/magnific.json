@@ -1,0 +1,31 @@
+{
+  "_doc": "Magnific MCP settings. Tool names/arg names are discovered from the live server (`ttk magnific discover`). Only fill overrides if the automatic mapping picks wrong names.",
+  "url": "https://mcp.magnific.com",
+  "aspect_ratio": "9:16",
+  "image_model": "",
+  "video_model": "",
+  "video_seconds": 5,
+  "upscale_factor": "2x",
+  "poll_seconds": 6,
+  "poll_timeout_seconds": 600,
+  "tools": {
+    "image": "",
+    "video": "",
+    "upscale": "",
+    "remove_bg": "",
+    "search": "",
+    "show": "",
+    "tts": "",
+    "status": ""
+  },
+  "args": {
+    "image": {},
+    "video": {},
+    "upscale": {},
+    "remove_bg": {},
+    "search": {},
+    "show": {},
+    "tts": {},
+    "status": {}
+  }
+}

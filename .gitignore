@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+tiktok/work/
+tiktok/output/
+tiktok/.magnific_tokens.json
+tiktok/music/*.mp3
+tiktok/music/*.wav
+tiktok/music/*.m4a
+!tiktok/music/README.md
